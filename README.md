@@ -1,6 +1,6 @@
 # Verificador de Palíndromos
 
-Este projeto é um exercício prático de Estruturas de Dados desenvolvido em Python onde verifica se uma palavra ou frase é um palíndromo (lê-se igual de trás para frente) utilizando as estruturas de dados **Pilha (Stack)** e **Fila (Queue)**.
+Este projeto é um exercício prático de Estruturas de Dados desenvolvido em Python. O sistema verifica se uma palavra ou frase é um palíndromo (lê-se igual de trás para frente) utilizando as estruturas de dados **Pilha (Stack)** e **Fila (Queue)**.
 
 ## 🚀 Funcionalidades
 * Ignora espaços, pontuações e acentos na validação.
